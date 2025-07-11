@@ -23,3 +23,4 @@ Similarity Computation: Optimized using vectorized operations and caching to eff
 
 📊 Dataset Used:
 Book-Crossing Dataset containing user ratings for thousands of books, including metadata.
+from https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download
